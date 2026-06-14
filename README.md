@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jabin Tasnim</h1>
+<h1 align="center">Hi, I'm Jabin Tasnim</h1>
 
 <h3 align="center">Computer Science & Engineering Student | AI & Machine Learning Enthusiast | Web Developer</h3>
 
@@ -12,21 +12,27 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 Final Year B.Sc. in Computer Science & Engineering (CSE)
-
-🏫 International Islamic University Chittagong (IIUC)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Mining, and Software Development
-
-🌱 Currently learning Laravel, Machine Learning, Data Mining, and Modern Web Technologies
-
-👩‍💼 Experienced in Human Resource Management and Team Coordination
-
-💡 Interested in Research, AI-Based Applications, and Full-Stack Development
+I am a final-year B.Sc. student in Computer Science and Engineering at International Islamic University Chittagong (IIUC). I am passionate about software development, web technologies, and problem-solving. Throughout my academic journey, I have worked on various projects involving Java, PHP, HTML, CSS, and database systems. I enjoy learning new technologies, collaborating with teams, and applying technical knowledge to develop practical solutions. My goal is to build a successful career in the software industry while continuously improving my technical and professional skills.
 
 📍 Chattogram, Bangladesh
+
+---
+
+## Education
+
+### B.Sc. in Computer Science and Engineering (CSE)
+*International Islamic University Chittagong (IIUC)*  
+Expected Graduation: 2026
+
+### Higher Secondary Certificate (HSC)
+*Mohila College Chattogram*  
+Year: 2018 - 2022
+
+### Secondary School Certificate (SSC)
+*Kapashgola City Corporation Girls' High School*  
+Year: 2014 - 2018
 
 ---
 
@@ -46,43 +52,44 @@
 * Time Management
 * Presentation Skills
 
+---
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,laravel,mysql,html,css,bootstrap,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🥇 Scholarship & Academic Achievement (2009)
-
-🎓 Computer Science & Engineering Student
-
-👩‍💼 HR Professional Experience
-
-📢 Former Press & Publicity Secretary Activities, IIUC Computer Club
-
-🤝 Leadership & Team Management Experience
+- Recipient of Academic Scholarship (2009)
+- General Secretary (GS), IIUC Computer Club Female Chapter
+- Successfully organized and coordinated multiple academic and technology-focused events.
+- Contributed to various software development and academic projects.
+- Developed leadership, teamwork, communication, and project management skills through extracurricular activities.
 
 ---
 
-## 🛠 Featured Projects
+## Featured Projects
 
-🔹 AI Emotion-Driven Task Manager
+### AI Task Management System
 
-🔹 Learning Management System (LMS)
+- Developed a task management application using Java.
+- Implemented task organization and management features.
 
-🔹 Artificial Neural Network (ANN) Project
+### Library Management System
 
-🔹 COVID-19 Symptom Data Mining
+- Designed and developed a database-driven management system.
+- Integrated CRUD operations and data management functionalities.
 
-🔹 2D Solar System Simulation using OpenGL
+### Learning Management System (Academic Project)
 
-🔹 Machine Learning & Data Mining Projects
+- Performed requirement analysis and system design.
+- Created ER diagrams, database design, and documentation.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JabinTasnim&show_icons=true&theme=tokyonight" />
@@ -98,7 +105,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JabinTasnim&theme=tokyo-night" />
@@ -106,7 +113,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/JabinTasnim/JabinTasnim/output/github-contribution-grid-snake.svg" />
@@ -114,7 +121,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 📧 Email: [jabintasnimjssho@gmail.com](mailto:jabintasnimjssho@gmail.com)
 
@@ -124,7 +131,7 @@
 
 ---
 
-## 💬 Favorite Quote
+## Favorite Quote
 
 "Success is the sum of small efforts repeated day in and day out."
 
