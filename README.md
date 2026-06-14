@@ -3,10 +3,7 @@
 <h3 align="center">Computer Science & Engineering Student | AI & Machine Learning Enthusiast | Web Developer</h3>
 
 <p align="center">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JabinTasnim&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;AI+Enthusiast;Machine+Learning+Learner;Web+Developer;Data+Science+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
