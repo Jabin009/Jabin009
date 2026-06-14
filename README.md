@@ -16,6 +16,9 @@
 
 I am a final-year B.Sc. student in Computer Science and Engineering at International Islamic University Chittagong (IIUC). I am passionate about software development, web technologies, and problem-solving. Throughout my academic journey, I have worked on various projects involving Java, PHP, HTML, CSS, and database systems. I enjoy learning new technologies, collaborating with teams, and applying technical knowledge to develop practical solutions. My goal is to build a successful career in the software industry while continuously improving my technical and professional skills.
 
+---
+
+## Location
 📍 Chattogram, Bangladesh
 
 ---
@@ -36,7 +39,7 @@ Year: 2014 - 2018
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 ### Technical Skills
 
@@ -109,14 +112,6 @@ Year: 2014 - 2018
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JabinTasnim&theme=tokyo-night" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/JabinTasnim/JabinTasnim/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
