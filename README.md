@@ -114,11 +114,11 @@ Year: 2014 - 2018
 
 ## Connect With Me
 
-Email: [jabintasnim95@gmail.com](mailto:jabintasnim95@gmail.com)
-Facebook: https://www.facebook.com/jabin.tasnim.ahmed
-GitHub: https://github.com/JabinTasnim
-Instragram: https://www.instagram.com/thejssho?igsh=M3p2aWV3bXA4MW9m
-Snapchat: https://www.snapchat.com/add/jssho2234?share_id=C7u4aRjKd7E&locale=en-US
+<p>Email: jabintasnim95@gmail.com</p>
+<p>Facebook: https://www.facebook.com/jabin.tasnim.ahmed</p>
+<p>GitHub: https://github.com/JabinTasnim</p>
+<p>Instagram: https://www.instagram.com/thejssho</p>
+<p>Snapchat: https://www.snapchat.com/add/jssho2234</p>
 
 ---
 
