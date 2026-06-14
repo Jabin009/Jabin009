@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jabin Tasnim</h1>
+<h1 align="center">Jabin Tasnim</h1>
 
 <h3 align="center">Computer Science & Engineering Student | AI & Machine Learning Enthusiast | Web Developer</h3>
 
