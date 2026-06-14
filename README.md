@@ -116,7 +116,7 @@ Year: 2014 - 2018
 
 <p>Email: jabintasnim95@gmail.com</p>
 <p>Facebook: https://www.facebook.com/jabin.tasnim.ahmed</p>
-<p>GitHub: [[https://github.com/JabinTasnim]</p>
+<p>GitHub: https://github.com/Jabin009</p>
 <p>Instagram: https://www.instagram.com/thejssho</p>
 <p>Snapchat: https://www.snapchat.com/add/jssho2234</p>
 
